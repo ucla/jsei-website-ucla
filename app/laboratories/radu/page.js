@@ -47,7 +47,7 @@ export default function RaduPage() {
       <div className="w-full h-64 md:h-96 relative overflow-hidden">
         <img
           src="/images/laboratory-banners/radu.jpg"
-          alt="Sampath Laboratory Banner"
+          alt="Radu Laboratory Banner"
           className="w-full h-full object-cover"
           style={{ objectPosition: 'center 10%' }}
         />

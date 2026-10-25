@@ -41,7 +41,7 @@ export default function YangPage() {
       <div className="w-full h-64 md:h-96 relative overflow-hidden">
         <img
           src="/images/laboratory-banners/yang.jpg"
-          alt="Sampath Laboratory Banner"
+          alt="Yang Laboratory Banner"
           className="w-full h-full object-cover"
           style={{ objectPosition: 'center 20%' }}
         />
@@ -91,8 +91,8 @@ export default function YangPage() {
             <div>
               <p className="text-gray-900 font-semibold mb-2">I. Mechanisms of Neuroprotection:</p>
               <ul className="list-disc pl-6 space-y-2 text-gray-800">
-                <li>How does neurotrophic cytokines elicit cellular signaling events to enhance neuronal viability?</li>
-                <li>Which cellular metabolic pathway contribute to neuronal survival?</li>
+                <li>How do neurotrophic cytokines elicit cellular signaling events to enhance neuronal viability?</li>
+                <li>Which cellular metabolic pathways contribute to neuronal survival?</li>
                 <li>How does retinal degeneration change mitochondrial morphology, function, and cellular energetics?</li>
                 <li>How to elicit retinal intrinsic neuroprotective potential?</li>
               </ul>
@@ -110,7 +110,7 @@ export default function YangPage() {
                 <li>Can viral mediated gene therapy or metabolic modulation attenuate phenotypes of mutant neurons?</li>
               </ul>
               <p className="mt-2 text-gray-800">
-                These research will provide more efficient methodology to produce human retinal projection neurons and new knowledge regarding human retinal development. Furthermore, the human optic neuropathy disease models will be valuable testing platform to evaluate the efficacy of novel treatment strategy prior to clinical trials.
+                This research will provide more efficient methodology to produce human retinal projection neurons and new knowledge regarding human retinal development. Furthermore, the human optic neuropathy disease models will be valuable testing platforms to evaluate the efficacy of novel treatment strategies prior to clinical trials.
               </p>
             </div>
           </div>

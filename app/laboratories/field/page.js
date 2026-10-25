@@ -48,7 +48,7 @@ export default function FieldPage() {
       <div className="w-full h-64 md:h-96 relative overflow-hidden">
         <img
           src="/images/laboratory-banners/field.jpg"
-          alt="Sampath Laboratory Banner"
+          alt="Field Laboratory Banner"
           className="w-full h-full object-cover"
           style={{ objectPosition: 'center 60%' }}
         />

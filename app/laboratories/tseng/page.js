@@ -48,7 +48,7 @@ export default function FieldPage() {
       <div className="w-full h-64 md:h-96 relative overflow-hidden">
         <img
           src="/images/laboratory-banners/field.jpg"
-          alt="Sampath Laboratory Banner"
+          alt="Tseng Laboratory Banner"
           className="w-full h-full object-cover"
           style={{ objectPosition: 'center 60%' }}
         />
@@ -91,7 +91,7 @@ export default function FieldPage() {
             Dr. Tseng is an Assistant Professor in Residence in the UCLA Department of Ophthalmology. 
             Her goal is to become an independent clinician-scientist focused on improving the quality 
             of glaucoma care in the United States. Specifically, Dr. Tseng focuses on leveraging data 
-            to develop deeper understanding of individual and structural-level factors that influence
+            to develop a deeper understanding of individual and structural-level factors that influence
              glaucoma risk, management, and outcomes, and to use these findings to design targeted
               interventions to improve the quality of glaucoma care. To build a strong epidemiologic
                research foundation fully integrated with ophthalmology, Dr. Tseng completed training
@@ -105,9 +105,9 @@ export default function FieldPage() {
                      which she performed a comprehensive review of glaucoma care disparities in the literature. Additionally, 
                      she received an American Glaucoma Society Mentoring for the Advancement of Physician Scientists Award, 
                      Research to Prevent Blindness and American Academy of Ophthalmology Award for IRIS Registry Research, 
-                     and Research to Prevent Blindness Career Development Award and to examine various demographic and 
+                     and Research to Prevent Blindness Career Development Award to examine various demographic and 
                      socioeconomic factors as they relate to glaucoma care and outcomes. With her future research, Dr. 
-                     Tseng aims to continue performing large-scale data-driven studies individual and structural level 
+                     Tseng aims to continue performing large-scale data-driven studies of individual and structural level 
                      factors as they relate to the quality of care for glaucoma and other chronic eye diseases. 
             </p>
             

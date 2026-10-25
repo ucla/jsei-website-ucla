@@ -92,7 +92,7 @@ export default function DemerPage() {
             </p>
 
             <p className="text-gray-800">
-              The Demer lab performs MRI and optical imaging of the human eye during eye movements to measure the resulting deformations of the optic nerve, optic disc, retina, and choroid. Tissue deformations determined from the imaging using machine learning are compared with finite element computational models based on measured biomechanical properties of post-mortem human ocular tissues. Resulting models are then correlated with clinical findings in patients with glaucoma and pathological myopia. These studies suggest that eye movements significantly to both common, blinding disorders, and may eventually improve their treatments.
+              The Demer lab performs MRI and optical imaging of the human eye during eye movements to measure the resulting deformations of the optic nerve, optic disc, retina, and choroid. Tissue deformations determined from the imaging using machine learning are compared with finite element computational models based on measured biomechanical properties of post-mortem human ocular tissues. Resulting models are then correlated with clinical findings in patients with glaucoma and pathological myopia. These studies suggest that eye movements significantly contribute to both common, blinding disorders, and may eventually improve their treatments.
             </p>
           </div>
         </div>
